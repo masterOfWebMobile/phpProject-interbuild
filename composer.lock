@@ -1,0 +1,57 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "040f0d9b4c45b973cac41bb5425e02f0",
+    "content-hash": "2ec16215c38d49d899e8600d9af2aaad",
+    "packages": [
+        {
+            "name": "hellosign/hellosign-php-sdk",
+            "version": "3.x-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/HelloFax/hellosign-php-sdk.git",
+                "reference": "41aafadfd2e7ef32566217255f240a8b517a4c52"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/HelloFax/hellosign-php-sdk/zipball/41aafadfd2e7ef32566217255f240a8b517a4c52",
+                "reference": "41aafadfd2e7ef32566217255f240a8b517a4c52",
+                "shasum": ""
+            },
+            "require-dev": {
+                "phpunit/phpunit": "4.0.*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "HelloSign\\": "library/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Neal O'Mara",
+                    "email": "apisupport@hellosign.com"
+                }
+            ],
+            "description": "This is the official PHP wrapper for HelloSign's API",
+            "time": "2015-09-09 23:37:58"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "hellosign/hellosign-php-sdk": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

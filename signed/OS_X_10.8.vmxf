@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 54 9f 25 de 6f c8 96-c7 8f bc d8 d8 7d ab cb</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">OS X 10.8.vmx</vmxPathName></VM><tools-install-info><installError>5</installError><updateCounter>341</updateCounter></tools-install-info></Foundry>
